@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar p{
+    margin: 1.4rem 0.9rem 0 0.9rem;
+    text-decoration: none;
+    color: #1d1d1d;
+    cursor: pointer;
+}
+
+.nameBio{
+    background-color: orangered;
+    border-radius: 50%;
+    padding: 0.5rem;
+    color: white !important;
+}

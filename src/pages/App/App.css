@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

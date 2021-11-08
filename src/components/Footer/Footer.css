@@ -1,0 +1,21 @@
+.footer{
+    background-color: whitesmoke;
+    color: slategray;
+    text-align: left;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+.countryP{
+    padding-top: 10px;
+}
+.bottomFooter{
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid lightslategray;
+}
+
+.bottomFooter p {
+    margin: 5px 8px;
+    padding: 5px 0;
+}
